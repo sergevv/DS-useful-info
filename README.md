@@ -5,4 +5,4 @@
 
 ### Resouces with datasets
 
-1. [https://proglib.io/p/top-30-resursov-s-dannymi-dlya-mashinnogo-obucheniya-2022-03-31](ТОП-30 ресурсов с данными для машинного обучения)
+1. [ТОП-30 ресурсов с данными для машинного обучения](https://proglib.io/p/top-30-resursov-s-dannymi-dlya-mashinnogo-obucheniya-2022-03-31)
