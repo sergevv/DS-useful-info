@@ -1,3 +1,4 @@
-# DS-useful-info
+## DS-useful-info
 
-[https://python-graph-gallery.com/](The Python Graph Gallery) - very clearly visualisation
+[The Python Graph Gallery](https://python-graph-gallery.com) - very clearly visualisation, good examples with mixed graphs
+
